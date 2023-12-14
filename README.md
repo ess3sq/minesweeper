@@ -1,6 +1,12 @@
 # minesweeper
 Simple implementation of minesweeper using [raylib](https://www.raylib.com/)
 
+## Controls
+- Left click hidden tile to reveal
+- Right click hidden tile to to set/unset flag
+
+There is a debug mode which reveals all bombs upon pressing `R`, however it is only available when compiling with `#define CHEAT_MODE true`.
+
 ## Compile
 Compile game using
 
