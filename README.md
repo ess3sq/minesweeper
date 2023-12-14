@@ -21,3 +21,5 @@ If you relocate the game executable, remember to also relocate the assets in `as
 Main credits to raylib. Additionally, the following assets have been sourced online:
 - Bomb: https://www.vecteezy.com/vector-art/22276377-a-bomb-in-pixel-art-style
 - Flagpole: https://www.flaticon.com/free-icon/achievement_4737015
+
+![screenshot](screenshot.png)
